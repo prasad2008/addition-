@@ -7,6 +7,6 @@ public class AddTwoNumbers {
       int sub ;
       sub = num1 - num2;
 
-      System.out.println("Sum of these numbers: "+sum);
+      System.out.println("Sum of these numbers: " + sum + " " + sub);
    }
 }
